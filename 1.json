@@ -2,10 +2,7 @@
 "spider":"https://raw.iqiq.io/pickear/tbs/main/spider/custom_spider22091401.jar;md5;88edf8de10f957592b3b67a136682597",
     "sites": 
     [  
-      {"key": "爱片网", "name": "爱片网", "type": 1, "api": "https://www.ipian.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-      {"key": "诺讯资源", "name": "🍱诺讯资源", "type": 1, "api": "http://caiji.nxflv.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        
-       {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 }
+      {"key": "爱片网", "name": "爱片网", "type": 1, "api": "https://www.ipian.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 }
   ], 
   "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2L2NuLnR4dA=="] } ] } ], 
   "parses": [
