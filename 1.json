@@ -4,13 +4,12 @@
       "key": "爱片网",
       "name": "爱片网",
       "type": 4,
-      "api": "https://tang.hz.cz/zb/tv?type=169&token=682c80df",
+      "api": "https://tang.hz.cz/power/ub1818?token=682c80df",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
       "ext": true
-}
 }
   ],
   "lives": [
